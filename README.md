@@ -17,5 +17,4 @@
 ![image](https://user-images.githubusercontent.com/84588706/163714144-985e5387-f2a2-4e9f-81ff-425c5d3bfb8e.png)
 
 # Mobile
-![image](https://user-images.githubusercontent.com/84588706/163797390-763c2c92-5706-43db-a83f-d4f2da41bf32.png)
 ![image](https://user-images.githubusercontent.com/84588706/163797458-5ea89b0d-d823-48d0-98ae-660432f551fb.png)
